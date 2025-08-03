@@ -3,17 +3,24 @@
 AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며, 실전 프로젝트를 통해 아이디어를 실제 제품으로 구현한 경험이 있습니다.  
 기술의 최종 목표는 **사용자**라고 생각하며, 사용자 중심의 문제 해결 능력을 키워왔습니다.
 
----
-
 ## 🛠 기술 스택
-
-- **백엔드**: Python, Django, Flask, FastAPI  
-- **프론트엔드**: JavaScript, HTML, CSS  
-- **데이터베이스**: SQLite, MySQL, Pinecone  
+- **백엔드**:
+- <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+- <img src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" />
+- <img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+- <img src="https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white" />
+- **프론트엔드**:
+- <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+- <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+- **데이터베이스**:
+- <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+- <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+- <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 - **AI/ML**: Langchain, Hugging Face  
-- **협업/버전 관리**: Git, GitHub  
-
----
+- **협업/버전 관리**:
+- Git
+- <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />  
 
 ## 💻 프로젝트
 
@@ -34,8 +41,6 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
   - [데이터 크롤링 및 임베딩](https://github.com/alreadysons/CrawlEmbedder)  
   - [RAG 구현](https://github.com/alreadysons/VectorRAGLLM)
 
----
-
 ### 2. 카카오톡 챗봇 요청 처리 Flask 서버
 
 - **소개**:  
@@ -47,8 +52,6 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 
 - **GitHub**:  
   [chatbot-server](https://github.com/kakao-tech-bootcamp-17th/chatbot-server)
-
----
 
 ### 3. Somedoctor - 카카오톡 채팅 호감도 분석 서비스
 
@@ -62,8 +65,6 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 - **GitHub**:  
   [SomeDoctor](https://github.com/TeamPingPong/SomeDoctor)
 
----
-
 ### 4. Shortty - 실시간 익명 채팅 웹 서비스
 
 - **소개**:  
@@ -76,13 +77,9 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 - **GitHub**:  
   [Shortty](https://github.com/alreadysons/capstone-shortty)
 
----
-
 ## 🎓 학력
 
 - 강릉원주대학교 컴퓨터공학과 (2019.03 ~ 2025.02 예정)
-
----
 
 ## 📫 연락처
 

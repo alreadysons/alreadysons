@@ -31,7 +31,6 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
   Python, FastAPI, Hugging Face, Langchain, OpenAI API, BeautifulSoup, Pinecone
 
 - **GitHub**:  
-  - [AI 기반 레시피 추천](https://github.com/Kakao-Tech-Bootcamp-Team2/Al)  
   - [데이터 크롤링 및 임베딩](https://github.com/alreadysons/CrawlEmbedder)  
   - [RAG 구현](https://github.com/alreadysons/VectorRAGLLM)
 

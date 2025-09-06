@@ -14,7 +14,7 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 - **협업/버전 관리**:
 <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />  
 
-## 💻 프로젝트 소개
+## 프로젝트 소개
 
 ### 👨‍🍳 Zipbob (집밥요리사) - AI 기반 레시피 추천 서비스
 

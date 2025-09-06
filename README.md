@@ -11,8 +11,7 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 - **데이터베이스**:
 <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 - **AI/ML**: Langchain, Hugging Face  
-- **협업/버전 관리**:
-<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />  
+- **협업/버전 관리**: <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />  
 
 ## 프로젝트 소개
 

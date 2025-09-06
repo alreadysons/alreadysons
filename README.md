@@ -12,11 +12,11 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 - **AI/ML**: Langchain, Hugging Face  
 - **협업/버전 관리**:
-- <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />  
+<img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />  
 
-## 💻 프로젝트
+## 💻 프로젝트 소개
 
-### 1. Zipbob (집밥요리사) - AI 기반 레시피 추천 서비스
+### 👨‍🍳 Zipbob (집밥요리사) - AI 기반 레시피 추천 서비스
 
 - **소개**:  
   자취생을 위한 AI 기반 맞춤형 레시피 추천 서비스입니다.  
@@ -33,7 +33,7 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
   - [데이터 크롤링 및 임베딩](https://github.com/alreadysons/CrawlEmbedder)  
   - [RAG 구현](https://github.com/alreadysons/VectorRAGLLM)
 
-### 2. 카카오톡 챗봇 요청 처리 Flask 서버
+### 🤖 카카오톡 챗봇 요청 처리 Flask 서버
 
 - **소개**:  
   날씨, 지도, 뉴스 등 다양한 정보를 대화형으로 제공하는 카카오톡 챗봇 서버입니다.  
@@ -45,7 +45,7 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 - **GitHub**:  
   [chatbot-server](https://github.com/kakao-tech-bootcamp-17th/chatbot-server)
 
-### 3. Somedoctor - 카카오톡 채팅 호감도 분석 서비스
+### 👨‍⚕️ Somedoctor - 카카오톡 채팅 호감도 분석 서비스
 
 - **소개**:  
   카카오톡 채팅 파일을 AI가 분석해 상대방의 호감도를 수치화해 제공하는 서비스입니다.  
@@ -57,7 +57,7 @@ AI 기술을 활용한 서비스 개발에 깊은 관심을 가지고 있으며,
 - **GitHub**:  
   [SomeDoctor](https://github.com/TeamPingPong/SomeDoctor)
 
-### 4. Shortty - 실시간 익명 채팅 웹 서비스
+### 💬 Shortty - 실시간 익명 채팅 웹 서비스
 
 - **소개**:  
   사용자가 익명 또는 로그인 상태로 실시간 채팅을 즐길 수 있는 웹 서비스입니다.  
